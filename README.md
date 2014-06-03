@@ -1,4 +1,4 @@
-# SDP Transform [![Build Status](https://secure.travis-ci.org/clux/sdp-transform.png)](http://travis-ci.o
+# SDP Transform (https://github.com/clux/sdp-transform) hacked for tAMD
 
 Browserified and removed the amd support - hack to support tAMD until a better option is found
 
