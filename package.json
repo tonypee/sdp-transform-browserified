@@ -1,0 +1,8 @@
+{
+    "name": "sdp-transform-browserified",
+    "version": "1.6.0",
+    "dependencies": {
+        "sdp-transform"                 : "*",
+        "browserify"                    : "*"
+    }
+}
